@@ -8,13 +8,13 @@ const Contact = () => {
       <form action="">
         <div className="formGroup">
           <label htmlFor="name" hidden>
-            Name
+            Nombre completo
           </label>
           <input
             type="text"
             name="name"
             id="name"
-            placeholder="Name"
+            placeholder="Nombre"
             required
           />
         </div>
@@ -32,16 +32,16 @@ const Contact = () => {
         </div>
         <div className="formGroup">
           <label htmlFor="message" hidden>
-            Message
+            Mensaje
           </label>
           <textarea
             name="message"
             id="message"
-            placeholder="Message"
+            placeholder="Mensaje"
             required
           ></textarea>
         </div>
-        <input className="hover btn" type="submit" value="Submit" />
+        <input className="hover btn" type="submit" value="Enviar" />
       </form>
     </section>
   );
