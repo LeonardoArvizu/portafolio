@@ -70,13 +70,13 @@ const Hero = () => {
           Instituto Tecnológico de Mexicali, principalmente dedicado al
           desarrollo de aplicaciones web y móvil. He trabajado tanto en
           Front-end como Back-end al igual que con base de datos relacionales y
-          no relaciones.
+          no relacionales.
           <br /> <br />
           Tengo pasión por el aprendizaje continuo y mi objetivo es aplicar mis
           habilidades técnicas y creativas en un entorno desafiante que pueda
           fomentar mi crecimiento personal y profesional. He participado
           activamente en proyectos que requieren habilidades técnicas en todas
-          las etapas del ciclo de vida del desarrollo de software. desde el
+          las etapas del ciclo de vida del desarrollo de software desde el
           diseño y la implementación hasta la depuración y la optimización.
         </p>
         <a href={CV} download>
